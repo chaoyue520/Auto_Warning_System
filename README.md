@@ -4,4 +4,6 @@
 
 * echo mail content
 
-* crontab
+* automatic mail
+
+* crontab -e
